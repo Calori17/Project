@@ -10,10 +10,10 @@
 
             $data_nascimento = $_POST['data_nascimento'];
 
-            // Valida se a data é real
+            
             if (strtotime($data_nascimento)) {
 
-                // Carrega o arquivo XML com os signos
+                
                 $signos = simplexml_load_file("signos.xml");
 
                 // Extrai o dia e o mês da data
@@ -22,7 +22,7 @@
                 $mes = $data[1];
                 $dia = $data[2];
 
-                // Procura o signo correspondente
+               
                 $signo_encontrado = null;
 
                 foreach ($signos->signo as $signo) {
