@@ -6,7 +6,7 @@
     <signoNome>Áries</signoNome>
     <descricao> Impulsivo, corajoso e cheio de energia. Gosta de liderar e agir sem esperar muito. Pode ser impaciente, mas é autêntico e direto. </descricao>
  </signo>
- 
+
  <signo>
     <dataInicio>20/04</dataInicio>
     <dataFim>20/05</dataFim>
@@ -70,8 +70,6 @@
     <descricao> Responsável, disciplinado e ambicioso. Pensa no futuro e trabalha duro. Pode ser reservado, mas é extremamente confiável. </descricao>
  </signo>
 
-
- 
  <signo>
     <dataInicio>20/01</dataInicio>
     <dataFim>18/02</dataFim>
@@ -85,3 +83,4 @@
     <signoNome>Peixes</signoNome>
     <descricao> Sonhador, empático e artístico. Vive com o coração e a imaginação. Pode ser distraído, mas tem grande sensibilidade emocional. </descricao>
  </signo>
+</signos>
