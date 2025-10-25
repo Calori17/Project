@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+ <signos>
+    <signo>
+    <dataInicio>21/03</dataInicio>
+    <dataFim>20/04</dataFim>
+    <signoNome>Áries</signoNome>
+    <descricao> Impulsivo, corajoso e cheio de energia. Gosta de liderar e agir sem esperar muito. Pode ser impaciente, mas é autêntico e direto. </descricao>
+ </signo>
+
+ <signo>
+    <dataInicio>20/04</dataInicio>
+    <dataFim>20/05</dataFim>
+    <signoNome>Touro</signoNome>
+    <descricao> Calmo, leal e amante do conforto. Valoriza segurança, estabilidade e prazeres da vida. Pode ser teimoso, mas é muito confiável. </descricao>
+ </signo>
+
+ <signo>
+     <dataInicio>21/05</dataInicio>
+    <dataFim>20/06</dataFim>
+    <signoNome>Gêmeos</signoNome>
+    <descricao> Comunicativo, curioso e versátil. Adora conversar e aprender coisas novas. Pode mudar de humor facilmente e se entediar rápido. </descricao>
+ </signo>
+
+ <signo>
+    <dataInicio>21/06</dataInicio>
+    <dataFim>22/07</dataFim>
+    <signoNome>Câncer</signoNome>
+    <descricao> Emocional, protetor e sensível. Valoriza família e vínculos afetivos. Às vezes se fecha em si mesmo, mas é muito carinhoso. </descricao>
+ </signo>
+
+ <signo>
+    <dataInicio>23/07</dataInicio>
+    <dataFim>22/08</dataFim>
+    <signoNome>Leão</signoNome>
+    <descricao> Confiante, criativo e carismático. Gosta de ser admirado e liderar. Pode ser orgulhoso, mas tem um coração generoso. </descricao>
+ </signo>
+
+ <signo>
+    <dataInicio>23/08</dataInicio>
+    <dataFim>22/09</dataFim>
+    <signoNome>Virgem</signoNome>
+    <descricao> Detalhista, organizado e prático. Gosta de ajudar e manter tudo sob controle. Pode ser crítico, mas busca sempre a perfeição. </descricao>
+ </signo>
+
+ <signo>
+    <dataInicio>23/09</dataInicio>
+    <dataFim>22/10</dataFim>
+    <signoNome>Libra</signoNome>
+    <descricao> Charmoso, diplomático e equilibrado. Odeia conflitos e busca harmonia. Pode ser indeciso, mas é justo e sociável. </descricao>
+ </signo>
+
+ <signo>
+    <dataInicio>23/10</dataInicio>
+    <dataFim>21/11</dataFim>
+    <signoNome>Escorpião</signoNome>
+     <descricao> Intenso, misterioso e apaixonado. Tem emoções profundas e é muito leal. Pode ser ciumento, mas valoriza a verdade e a entrega. </descricao>
+ </signo>
+
+ <signo>
+    <dataInicio>22/11</dataInicio>
+    <dataFim>21/12/</dataFim>
+    <signoNome>Sagitário</signoNome>
+    <descricao> Responsável, disciplinado e ambicioso. Pensa no futuro e trabalha duro. Pode ser reservado, mas é extremamente confiável. </descricao>
+ </signo>
+
+ <signo>
+    <dataInicio>22/11</dataInicio>
+    <dataFim>19/01</dataFim>
+    <signoNome>Capricórnio</signoNome>
+    <descricao> Responsável, disciplinado e ambicioso. Pensa no futuro e trabalha duro. Pode ser reservado, mas é extremamente confiável. </descricao>
+ </signo>
+
+ <signo>
+    <dataInicio>20/01</dataInicio>
+    <dataFim>18/02</dataFim>
+    <signoNome>Aquário</signoNome>
+    <descricao> Original, independente e idealista. Gosta de inovar e pensar diferente. Pode parecer distante, mas é muito humano e solidário. </descricao>
+ </signo>
+
+ <signo>
+    <dataInicio>19/02</dataInicio>
+    <dataFim>20/03</dataFim>
+    <signoNome>Peixes</signoNome>
+    <descricao> Sonhador, empático e artístico. Vive com o coração e a imaginação. Pode ser distraído, mas tem grande sensibilidade emocional. </descricao>
+ </signo>
+</signos>
